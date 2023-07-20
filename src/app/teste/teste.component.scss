@@ -1,0 +1,42 @@
+.teste{
+    display: flex;
+    align-items: center;
+}
+.teste a{
+    display:flex ;
+    align-items: center;
+    text-decoration: rgb(166, 144, 109);
+    color: bisque;
+    cursor: pointer;
+}
+.teste .logo{
+    max-height: 50px;
+}
+.teste section{
+    display: flex;
+    align-items: center;
+}
+ h1{
+   text-align: center;
+    color:orangered;
+    padding: 100px;
+    font-size: 3rem;
+}
+h2{
+    text-align:left;
+    color: rgb(168, 115, 16);
+    font-size: 2rem;
+    padding:30px;
+}
+h3{
+    text-align: left;
+    color:rgb(168, 115, 16);
+    font-size: 1rem;
+    padding:30px;
+}
+div a{
+text-align: left;
+color:orangered;
+font-size: 1rem;
+padding: 30px;
+}
